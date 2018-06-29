@@ -1,0 +1,13 @@
+.game {
+    margin: 5px;
+    width: 32%;
+    height: 250px;
+    float: none;
+}
+img {
+    width: 100%;
+    height: 100%;
+}
+.container {
+    padding: 15px;
+}
